@@ -1,5 +1,5 @@
-# teste_api
+# Validação de Json Schema
 
-- JUSTIFICATIVA:
+- Ferramenta utilizada: Postman
 
-Validação de JSON Schema pelo Postman.
+- API utilizada: 
