@@ -2,4 +2,4 @@
 
 - Ferramenta utilizada: Postman
 
-- API utilizada: 
+- API utilizada: https://jsonplaceholder.typicode.com/
